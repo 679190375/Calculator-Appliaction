@@ -1,2 +1,3 @@
-# Calculator-Appliaction
-A simple calculator app that performs basic arithmetic operations like addition, subtraction, multiplication, and division
+# Python
+A collection of different Python projects. The tutorials for them are on my Youtube channel: 
+https://www.youtube.com/c/Lumary/videos
